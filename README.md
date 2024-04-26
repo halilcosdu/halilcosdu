@@ -1,21 +1,43 @@
+# Halil Coşdu
+
 ## About Me
 
-Hello, I'm Halil Cosdu! I'm a seasoned software engineer specializing in the design and development of distributed, scalable systems primarily using Laravel. I have a strong passion for microservices and software architecture, and I actively contribute to the open-source community where I enjoy collaborating and sharing knowledge.
+Welcome to my GitHub profile! I am Halil Coşdu, a Professional Software Architect with over 10 years of extensive experience in PHP development, primarily using Laravel. I have a proven track record in creating robust, scalable applications and a solid understanding of database management. Currently serving as the Chief Technology Officer at Bear LLC, Ohio, I continue to lead digital transformation initiatives and drive data-driven decision-making.
 
-## 👨‍💻 Professional Skills
+## 🌟 Expertise
 
 - **Languages & Frameworks:** PHP, Laravel
-- **Queue Systems:** AWS SQS, Redis
-- **DevOps Tools:** Amazon Web Services (AWS), Google Cloud, Docker, Kubernetes
-- **Logging Tools:** Prometheus, Datadog, NewRelic
-- **Databases:** 
-  - **Relational:** SQL, PostgreSQL, MariaDB
-  - **Non-Relational:** MongoDB, DynamoDB, Elastic Search
+- **Big Data Management:** Experience with large-scale data handling and analytics
+- **Cloud Services:** AWS, Digital Ocean, Akamai
+- **Databases:** MySQL, MariaDB, and more
+- **DevOps:** Proficient with modern DevOps practices
+- **Machine Learning:** Integrating ML models to enhance application capabilities
+- **System Architecture:** Designing scalable and robust system architectures
+- **Mobile Technologies:** Developing applications that are optimized for mobile platforms
 
-## 🌍 Open Source Contribution
+## 🚀 Professional Journey
 
-I believe in the power of collaboration and open knowledge. I actively engage in open-source projects, contributing code, and expertise to a variety of tools and libraries in the tech community.
+- **Chief Technology Officer** - Bear LLC, Ohio (Feb 2023 - Present)
+  - Spearheaded digital transformation and optimized system performance across the board.
+  - Championed data-driven decision-making and reduced total cost of ownership by strategically outsourcing IT services.
+
+- **Software Architect** - Despatch Cloud LLC, Driffield (Feb 2020 - Present)
+  - Designed and implemented custom APIs and championed open-source technologies.
+  - Enhanced software performance through meticulous code analysis and optimization.
+
+- **Software Architect** - Erstream A.Ş, İstanbul (Jan 2018 - Mar 2020)
+  - Managed and monitored installed systems to ensure high availability and performance.
+  - Advocated for cloud-based services, improving scalability and operational flexibility.
+
+## 📘 Education
+
+- **Master in Teacher Education** - Gazi Üniversitesi, Ankara (Jan 2005 - Jan 2012)
+
+## 📫 How to Reach Me
+
+- **LinkedIn:** [Halil Coşdu](https://www.linkedin.com/in/halilcosdu)
+- **Portfolio:** [Bold.Pro](https://bold.pro/my/halilcosdu/190r)
 
 ---
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/halilcosdu) or check out my projects here on GitHub!
+Feel free to browse my projects and don't hesitate to reach out if you want to collaborate or learn more about my work!
