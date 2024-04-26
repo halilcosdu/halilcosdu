@@ -7,10 +7,10 @@ Hello, I'm Halil Cosdu! I'm a seasoned software engineer specializing in the des
 - **Languages & Frameworks:** PHP, Laravel
 - **Queue Systems:** AWS SQS, Redis
 - **DevOps Tools:** Amazon Web Services (AWS), Google Cloud, Docker, Kubernetes
-- **Logging Tools:** Prometheus, Datadog, NewRelic, Elastic Search
+- **Logging Tools:** Prometheus, Datadog, NewRelic
 - **Databases:** 
   - **Relational:** SQL, PostgreSQL, MariaDB
-  - **Non-Relational:** MongoDB, DynamoDB
+  - **Non-Relational:** MongoDB, DynamoDB, Elastic Search
 
 ## 🌍 Open Source Contribution
 
