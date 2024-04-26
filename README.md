@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I am Halil Coşdu, a Professional Software Archite
 
 ## 📊 Stats
 
-[![Halil's GitHub stats](https://github-readme-stats.vercel.app/api?username=halilcosdu)](https://github.com/halilcosdu/github-readme-stats)
+[![Halil's GitHub stats](https://github-readme-stats.vercel.app/api?username=halilcosdu)](https://github.com/halilcosdu)
 
 ---
 
