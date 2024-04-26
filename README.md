@@ -38,6 +38,10 @@ Welcome to my GitHub profile! I am Halil Coşdu, a Professional Software Archite
 - **LinkedIn:** [Halil Coşdu](https://www.linkedin.com/in/halilcosdu)
 - **Portfolio:** [Bold.Pro](https://bold.pro/my/halilcosdu/190r)
 
+## 📊 Stats
+
+[![Halil's GitHub stats](https://github-readme-stats.vercel.app/api?username=halilcosdu)](https://github.com/halilcosdu/github-readme-stats)
+
 ---
 
 Feel free to browse my projects and don't hesitate to reach out if you want to collaborate or learn more about my work!
