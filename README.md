@@ -1,6 +1,6 @@
 # Halil Coşdu
 
-## About Me Software Architect|Laravel Developer
+## About Me Software Architect | Laravel Developer
 
 Welcome to my GitHub profile! I am Halil Coşdu, a Professional Software Architect with over 10 years of extensive experience in PHP development, primarily using Laravel. I have a proven track record in creating robust, scalable applications and a solid understanding of database management. Currently serving as the Chief Technology Officer at Bear LLC, Ohio, I continue to lead digital transformation initiatives and drive data-driven decision-making.
 
