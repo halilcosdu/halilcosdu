@@ -2,7 +2,7 @@
 
 ## Software Architect | Laravel Developer
 
-Welcome to my GitHub profile! I am Halil Coşdu, a Professional Software Architect with over 10 years of extensive experience in PHP development, primarily using Laravel. I have a proven track record in creating robust, scalable applications and a solid understanding of database management. Currently serving as the Chief Technology Officer at Bear LLC, Ohio, I continue to lead digital transformation initiatives and drive data-driven decision-making.
+Welcome to my GitHub profile! I am Halil Coşdu, a Professional Software Architect with over 10 years of extensive experience in PHP development, primarily using Laravel. I have a proven track record in creating robust, scalable applications and a solid understanding of database management. Currently serving as the Software Architect at Despatch Cloud, I continue to lead digital transformation initiatives and drive data-driven decision-making.
 
 ## 🌟 Expertise
 
@@ -17,13 +17,13 @@ Welcome to my GitHub profile! I am Halil Coşdu, a Professional Software Archite
 
 ## 🚀 Professional Journey
 
-- **Chief Technology Officer** - Bear LLC, Ohio (Feb 2023 - Present)
-  - Spearheaded digital transformation and optimized system performance across the board.
-  - Championed data-driven decision-making and reduced total cost of ownership by strategically outsourcing IT services.
-
 - **Software Architect** - Despatch Cloud LLC, Driffield (Feb 2020 - Present)
   - Designed and implemented custom APIs and championed open-source technologies.
   - Enhanced software performance through meticulous code analysis and optimization.
+ 
+- **Chief Technology Officer** - Bear LLC, Ohio (Feb 2023 - April 2024)
+  - Spearheaded digital transformation and optimized system performance across the board.
+  - Championed data-driven decision-making and reduced total cost of ownership by strategically outsourcing IT services.
 
 - **Software Architect** - Erstream A.Ş, İstanbul (Jan 2018 - Mar 2020)
   - Managed and monitored installed systems to ensure high availability and performance.
