@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I am Halil Coşdu, a Professional Software Archite
 
 ## 🚀 Professional Journey
 
-- **Software Architect** - Despatch Cloud LLC, Driffield (Feb 2020 - Present)
+- **Software Architect** - Despatch Cloud LLC, Driffield (Feb 2020 - May 2024)
   - Designed and implemented custom APIs and championed open-source technologies.
   - Enhanced software performance through meticulous code analysis and optimization.
  
