@@ -1,6 +1,6 @@
 # Halil Coşdu
 
-## Laravel Expert | Technical Lead | Software Architect
+## Laravel Certified Developer | Technical Lead | Software Architect
 
 Welcome to my GitHub profile! I am Halil Coşdu, a Professional Software Architect with over 10 years of extensive experience in PHP development, primarily using Laravel. I have a proven track record in creating robust, scalable applications and a solid understanding of database management. Currently serving as Laravel Expert, I continue to lead digital transformation initiatives and drive data-driven decision-making.
 
