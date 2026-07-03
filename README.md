@@ -63,13 +63,11 @@ Most of my time lives where **Laravel meets LLMs**: wrapping inference APIs (Oll
 
 ---
 
-### 🐍 This is what my contribution grid looks like when a snake gets loose
+### 🍩 What I build with
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/halilcosdu/halilcosdu/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/halilcosdu/halilcosdu/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/halilcosdu/halilcosdu/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<p align="center">
+  <img width="360" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=halilcosdu&theme=dracula" alt="Repositories by language" />
+</p>
 
 ---
 
