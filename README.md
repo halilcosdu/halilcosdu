@@ -1,25 +1,37 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F7536F&center=true&vCenter=true&random=false&width=620&height=45&lines=Laravel+%E2%9C%95+Applied+AI;Shipped+%E2%86%92+Adopted+%E2%86%92+Maintained;10%2B+years+in+production+PHP" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,35:414868,70:7aa2f7,100:bb9af7&height=220&section=header&text=Halil%20Co%C5%9Fdu&fontSize=54&fontColor=c0caf5&animation=twinkling&fontAlignY=36&desc=Laravel%20Certified%20Developer%20%C2%B7%20Technical%20Lead%20%C2%B7%20Software%20Architect&descSize=16&descAlignY=57" alt="Header banner" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=7DCFFF&center=true&vCenter=true&random=false&width=760&height=55&lines=Laravel+%E2%9C%95+Applied+AI;PHP+systems+that+stay+standing+in+production;650%2B+stars+across+open-source+packages;Shipped+%E2%86%92+Adopted+%E2%86%92+Maintained;Building+autonomous+%22zero-human%22+systems" alt="Typing animation" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=halilcosdu&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views" />
+<a href="https://github.com/halilcosdu?tab=followers"><img src="https://img.shields.io/github/followers/halilcosdu?style=for-the-badge&logo=github&logoColor=c0caf5&color=7aa2f7&labelColor=1a1b26" alt="Followers" /></a>
+<a href="https://github.com/halilcosdu?tab=repositories"><img src="https://img.shields.io/github/stars/halilcosdu?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=c0caf5&color=bb9af7&labelColor=1a1b26&label=TOTAL+STARS" alt="Total stars" /></a>
+<img src="https://img.shields.io/badge/Laravel-Certified-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=1a1b26" alt="Laravel Certified" />
+<img src="https://img.shields.io/badge/Status-Open_to_Work-9ece6a?style=for-the-badge&labelColor=1a1b26" alt="Open to work" />
 
 </div>
 
----
+## 🧑‍🚀 About me
 
-<img align="right" width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=halilcosdu&theme=dracula" alt="Profile details" />
+<img align="right" width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=halilcosdu&theme=tokyonight" alt="Profile details" />
 
-# Halil Coşdu
+Based in **Burhaniye, Türkiye** - building for the web since **2014**.
 
-**Laravel Certified Developer · Technical Lead · Software Architect**
-Based in Burhaniye, Türkiye — building for the web since 2014.
+I write PHP systems that stay standing in production, and I turn applied AI into Laravel packages other people install with a single `composer require`. Over **650 stars** across my open-source work, led by [`laravel-slower`](https://github.com/halilcosdu/laravel-slower) - an AI-driven database query optimiser sitting at **410★**.
 
-I write PHP systems that stay standing in production, and I turn applied AI into Laravel packages other people install with a single `composer require`. Over **650 stars** across my open-source work, led by [`laravel-slower`](https://github.com/halilcosdu/laravel-slower) — an AI-driven database query optimizer that's become my flagship, sitting at **410★**.
-
-Most of my time lives where **Laravel meets LLMs**: wrapping inference APIs (Ollama, Replicate), automating fine-tuning, building no-code ETL, and now orchestrating autonomous, "zero-human" systems. I don't chase trends — I ship the boring, reliable layer underneath them and maintain it for years.
+Most of my time lives where **Laravel meets LLMs**: wrapping inference APIs (Ollama, Replicate), automating fine-tuning, building no-code ETL, and orchestrating autonomous, "zero-human" systems. I don't chase trends - I ship the boring, reliable layer underneath them and maintain it for years.
 
 <br clear="right"/>
 
----
+## 🚀 Flagship work
+
+<div align="center">
+  <a href="https://github.com/halilcosdu/laravel-slower"><img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=halilcosdu&repo=laravel-slower&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="laravel-slower" /></a>
+  <a href="https://github.com/halilcosdu/laravel-chatbot"><img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=halilcosdu&repo=laravel-chatbot&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="laravel-chatbot" /></a>
+</div>
 
 ### 🔭 What I'm actively building & maintaining
 
@@ -27,10 +39,10 @@ Most of my time lives where **Laravel meets LLMs**: wrapping inference APIs (Oll
 
 | | Package | What it does |
 |---|---|---|
-| ⭐ | [**laravel-slower**](https://github.com/halilcosdu/laravel-slower) · `410★` | AI-powered optimization for slow DB queries |
+| ⭐ | [**laravel-slower**](https://github.com/halilcosdu/laravel-slower) · `410★` | AI-powered optimisation for slow DB queries |
 | 🤖 | [**laravel-chatbot**](https://github.com/halilcosdu/laravel-chatbot) · `65★` | Drop-in OpenAI/GPT chatbot for Laravel apps |
 | 🧠 | [**laravel-replicate**](https://github.com/halilcosdu/laravel-replicate) · `53★` | First-class Replicate PHP client |
-| 🦙 | [**laravel-ollama**](https://github.com/halilcosdu/laravel-ollama) · `26★` | Ollama API wrapper — run local models |
+| 🦙 | [**laravel-ollama**](https://github.com/halilcosdu/laravel-ollama) · `26★` | Ollama API wrapper - run local models |
 | 🎯 | [**laravel-finetuner**](https://github.com/halilcosdu/laravel-finetuner) · `18★` | Automate OpenAI fine-tuning pipelines |
 | 📱 | [**laravel-mobiler**](https://github.com/halilcosdu/laravel-mobiler) · `17★` | Mobile-first admin panel on FilamentPHP |
 | 🚩 | [**laravel-command-banner**](https://github.com/halilcosdu/laravel-command-banner) · `10★` | Block commands from running in the wrong env |
@@ -38,69 +50,69 @@ Most of my time lives where **Laravel meets LLMs**: wrapping inference APIs (Oll
 | 🏭 | [**panda-etl**](https://github.com/halilcosdu/panda-etl) | No-code ETL & data pipelines with AI/NLP |
 | 🤝 | [**paperclip**](https://github.com/halilcosdu/paperclip) | Orchestration for zero-human companies |
 
----
+## 🛠️ Stack I reach for
 
-### 📈 The numbers
+<div align="center">
 
-<p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=halilcosdu&theme=dracula" alt="Halil's GitHub stats" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=halilcosdu&theme=dracula" alt="Most committed languages" />
-</p>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php,laravel,mysql,redis,elasticsearch,nginx,linux,docker,aws,githubactions,git,postman&perline=6" alt="Tech stack" /></a>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=halilcosdu&theme=dracula&hide_border=true&ring=F7536F&fire=F7536F&currLabelColor=F7536F" alt="GitHub streak" />
-</p>
+**The AI layer**
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=halilcosdu&theme=dracula&utcOffset=3" alt="Productive time — when I commit" />
-</p>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a1b26" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+<img src="https://img.shields.io/badge/Replicate-EA2805?style=for-the-badge&labelColor=1a1b26" alt="Replicate" />
+<img src="https://img.shields.io/badge/FilamentPHP-FEAE4D?style=for-the-badge&labelColor=1a1b26" alt="FilamentPHP" />
 
----
+</div>
 
-### 📉 My year on GitHub
+## 📈 The numbers
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=halilcosdu&bg_color=1a1b26&color=c678dd&line=F7536F&point=ffffff&area=true&hide_border=true" alt="Contribution graph" />
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=halilcosdu&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halilcosdu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5" alt="Top languages" />
+</div>
 
----
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=halilcosdu&theme=tokyonight&hide_border=true&background=1A1B26&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7DCFFF" alt="GitHub streak" />
+</div>
 
-### 🍩 What I build with
+<div align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=halilcosdu&theme=tokyonight&utcOffset=3" alt="Productive time" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=halilcosdu&theme=tokyonight" alt="Repos per language" />
+</div>
 
-<p align="center">
-  <img width="360" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=halilcosdu&theme=dracula" alt="Repositories by language" />
-</p>
+## ⚡ A year of shipping
 
----
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=halilcosdu&theme=tokyo-night&hide_border=true&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=7dcfff&area=true" alt="Contribution activity graph" />
 
-### 🛠️ Stack I reach for
+## 🏆 Trophy cabinet
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Filament-FEAE4D?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/DevOps-326CE5?style=for-the-badge&logoColor=white" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=halilcosdu&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
+</div>
 
----
+## 🐍 Watch the snake eat my contributions
 
-### 🤝 Let's talk
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/halilcosdu/halilcosdu/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/halilcosdu/halilcosdu/output/github-snake.svg" />
+    <img width="100%" alt="Contribution snake animation" src="https://raw.githubusercontent.com/halilcosdu/halilcosdu/output/github-snake-dark.svg" />
+  </picture>
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/halilcosdu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/halilcosdu"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
-  <a href="mailto:halilcosdu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://bold.pro/my/halilcosdu/190r"><img src="https://img.shields.io/badge/Portfolio-Bold.Pro-2E7D32?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://buymeacoffee.com/halilcosdu5"><img src="https://img.shields.io/badge/Buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy me a coffee" /></a>
-</p>
+## 🤝 Let's talk
 
-<p align="center">
-  <em>Open to work · Open to collaboration · Always open to a well-scoped PR.</em>
-</p>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/halilcosdu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b26" alt="LinkedIn" /></a>
+<a href="https://twitter.com/halilcosdu"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
+<a href="mailto:halilcosdu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b26" alt="Email" /></a>
+<a href="https://bold.pro/my/halilcosdu/190r"><img src="https://img.shields.io/badge/Portfolio-2E7D32?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1b26" alt="Portfolio" /></a>
+<a href="https://buymeacoffee.com/halilcosdu5"><img src="https://img.shields.io/badge/Buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee" /></a>
+
+<em>Open to work · Open to collaboration · Always open to a well-scoped PR.</em>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7aa2f7,100:1a1b26&height=140&section=footer" alt="Footer banner" />
+
+</div>
