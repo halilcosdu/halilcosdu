@@ -26,14 +26,7 @@ Most of my time lives where **Laravel meets LLMs**: wrapping inference APIs (Oll
 
 <br clear="right"/>
 
-## 🚀 Flagship work
-
-<div align="center">
-  <a href="https://github.com/halilcosdu/laravel-slower"><img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=halilcosdu&repo=laravel-slower&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="laravel-slower" /></a>
-  <a href="https://github.com/halilcosdu/laravel-chatbot"><img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=halilcosdu&repo=laravel-chatbot&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="laravel-chatbot" /></a>
-</div>
-
-### 🔭 What I'm actively building & maintaining
+## 🔭 What I'm actively building & maintaining
 
 > These aren't abandoned side projects. Every one below is on my regular push/watch list.
 
@@ -68,8 +61,8 @@ Most of my time lives where **Laravel meets LLMs**: wrapping inference APIs (Oll
 ## 📈 The numbers
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=halilcosdu&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halilcosdu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5" alt="Top languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=halilcosdu&theme=tokyonight" alt="GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=halilcosdu&theme=tokyonight" alt="Most committed languages" />
 </div>
 
 <div align="center">
@@ -84,12 +77,6 @@ Most of my time lives where **Laravel meets LLMs**: wrapping inference APIs (Oll
 ## ⚡ A year of shipping
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=halilcosdu&theme=tokyo-night&hide_border=true&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=7dcfff&area=true" alt="Contribution activity graph" />
-
-## 🏆 Trophy cabinet
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=halilcosdu&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
-</div>
 
 ## 🐍 Watch the snake eat my contributions
 
