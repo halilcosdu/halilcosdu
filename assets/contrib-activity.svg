@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="252" viewBox="0 0 880 252" font-family="'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif" role="img" aria-label="halilcosdu: 664 contributions per week over the last year, peaking at 157 in the week of 2026-08-02">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#14151f"/><stop offset=".55" stop-color="#1a1b26"/><stop offset="1" stop-color="#21232f"/></linearGradient>
+<linearGradient id="ttl" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7dcfff"/><stop offset=".5" stop-color="#7aa2f7"/><stop offset="1" stop-color="#bb9af7"/></linearGradient>
+<clipPath id="panel"><rect width="880" height="252" rx="14"/></clipPath>
+<linearGradient id="fill" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7aa2f7" stop-opacity=".42"/><stop offset="1" stop-color="#7aa2f7" stop-opacity="0"/></linearGradient>
+<clipPath id="reveal"><rect class="rv" x="46" y="54" width="812" height="166"/></clipPath>
+<style>
+.rv{animation:wipe 8s cubic-bezier(.35,0,.2,1) infinite;transform-box:view-box;transform-origin:46px 0}
+@keyframes wipe{0%{transform:scaleX(0)}52%{transform:scaleX(1)}100%{transform:scaleX(1)}}
+.pk{animation:pop 8s ease-out infinite;transform-box:view-box;transform-origin:809.3px 68.9px}
+@keyframes pop{0%,49%{opacity:0;transform:scale(.3)}54%{opacity:1;transform:scale(1)}100%{opacity:1;transform:scale(1)}}
+.gl{animation:breathe 4s ease-in-out infinite}
+@keyframes breathe{0%,100%{opacity:.55}50%{opacity:1}}
+@media(prefers-reduced-motion:reduce){.rv,.pk,.gl{animation:none}.rv{transform:none}.pk{opacity:1;transform:none}}
+</style>
+</defs>
+<rect width="880" height="252" rx="14" fill="url(#bg)"/>
+<text x="30" y="34" font-size="19" font-weight="700" fill="url(#ttl)">Contributions per week</text>
+<text x="30" y="52" font-size="12" fill="#7f88a8">@halilcosdu · last 12 months</text>
+<text class="gl" x="850" y="36" text-anchor="end" font-size="24" font-weight="800" fill="#7dcfff">664</text>
+<text x="850" y="52" text-anchor="end" font-size="11" fill="#7f88a8">total · peak 157 in the week of Aug 2, 2026</text>
+<line x1="46" y1="218" x2="856" y2="218" stroke="#272b3d" stroke-width="1"/><line x1="46" y1="180" x2="856" y2="180" stroke="#272b3d" stroke-width="1"/><line x1="46" y1="142" x2="856" y2="142" stroke="#272b3d" stroke-width="1"/><line x1="46" y1="104" x2="856" y2="104" stroke="#272b3d" stroke-width="1"/><line x1="46" y1="66" x2="856" y2="66" stroke="#272b3d" stroke-width="1"/><text x="36" y="222" text-anchor="end" font-size="10.5" fill="#565f7e">0</text><text x="36" y="184" text-anchor="end" font-size="10.5" fill="#565f7e">40</text><text x="36" y="146" text-anchor="end" font-size="10.5" fill="#565f7e">80</text><text x="36" y="108" text-anchor="end" font-size="10.5" fill="#565f7e">120</text><text x="36" y="70" text-anchor="end" font-size="10.5" fill="#565f7e">160</text><text x="77.2" y="240" text-anchor="middle" font-size="10.5" fill="#565f7e">Sep</text><text x="139.5" y="240" text-anchor="middle" font-size="10.5" fill="#565f7e">Oct</text><text x="201.8" y="240" text-anchor="middle" font-size="10.5" fill="#565f7e">Nov</text><text x="279.7" y="240" text-anchor="middle" font-size="10.5" fill="#565f7e">Dec</text><text x="342" y="240" text-anchor="middle" font-size="10.5" fill="#565f7e">Jan</text><text x="404.3" y="240" text-anchor="middle" font-size="10.5" fill="#565f7e">Feb</text><text x="466.6" y="240" text-anchor="middle" font-size="10.5" fill="#565f7e">Mar</text><text x="544.5" y="240" text-anchor="middle" font-size="10.5" fill="#565f7e">Apr</text><text x="606.8" y="240" text-anchor="middle" font-size="10.5" fill="#565f7e">May</text><text x="684.7" y="240" text-anchor="middle" font-size="10.5" fill="#565f7e">Jun</text><text x="747" y="240" text-anchor="middle" font-size="10.5" fill="#565f7e">Jul</text><text x="809.3" y="240" text-anchor="middle" font-size="10.5" fill="#565f7e">Aug</text>
+<g clip-path="url(#reveal)">
+<path d="M46 102.1L61.6 180L77.2 214.2L92.7 217.1L108.3 218L123.9 218L139.5 218L155 218L170.6 218L186.2 218L201.8 210.4L217.3 218L232.9 218L248.5 218L264.1 210.4L279.7 218L295.2 218L310.8 218L326.4 218L342 218L357.5 218L373.1 218L388.7 218L404.3 218L419.8 218L435.4 217.1L451 216.1L466.6 216.1L482.2 216.1L497.7 218L513.3 218L528.9 218L544.5 217.1L560 218L575.6 218L591.2 218L606.8 218L622.3 218L637.9 218L653.5 218L669.1 218L684.7 218L700.2 218L715.8 218L731.4 188.6L747 196.2L762.5 218L778.1 149.6L793.7 155.3L809.3 68.9L824.8 184.8L840.4 140.1L856 211.4L856 218L46 218Z" fill="url(#fill)"/>
+<path d="M46 102.1L61.6 180L77.2 214.2L92.7 217.1L108.3 218L123.9 218L139.5 218L155 218L170.6 218L186.2 218L201.8 210.4L217.3 218L232.9 218L248.5 218L264.1 210.4L279.7 218L295.2 218L310.8 218L326.4 218L342 218L357.5 218L373.1 218L388.7 218L404.3 218L419.8 218L435.4 217.1L451 216.1L466.6 216.1L482.2 216.1L497.7 218L513.3 218L528.9 218L544.5 217.1L560 218L575.6 218L591.2 218L606.8 218L622.3 218L637.9 218L653.5 218L669.1 218L684.7 218L700.2 218L715.8 218L731.4 188.6L747 196.2L762.5 218L778.1 149.6L793.7 155.3L809.3 68.9L824.8 184.8L840.4 140.1L856 211.4" fill="none" stroke="#7aa2f7" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+</g>
+<g class="pk">
+<circle cx="809.3" cy="68.9" r="8" fill="#bb9af7" opacity=".22"/>
+<circle cx="809.3" cy="68.9" r="4" fill="#bb9af7" stroke="#1a1b26" stroke-width="2"/>
+<text x="796.3" y="86.9" text-anchor="end" font-size="11.5" font-weight="700" fill="#c0caf5">157</text>
+</g>
+<line x1="46" y1="218" x2="856" y2="218" stroke="#272b3d" stroke-width="1"/>
+</svg>
