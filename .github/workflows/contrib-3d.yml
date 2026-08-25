@@ -1,4 +1,4 @@
-name: 3D contribution wall
+name: Profile SVGs
 
 on:
   schedule:
@@ -24,8 +24,10 @@ jobs:
         with:
           node-version: 20
 
-      - name: Render assets/contrib-3d.svg
-        run: node scripts/contrib-3d.mjs
+      - name: Render contribution SVGs
+        run: |
+          node scripts/contrib-3d.mjs
+          node scripts/contrib-cards.mjs
         env:
           # GITHUB_TOKEN is enough for a public contribution calendar.
           # If GitHub ever refuses it, swap in a classic PAT with read:user.
@@ -36,7 +38,7 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/contrib-3d.svg
+          git add assets
           git diff --staged --quiet && echo "no change" && exit 0
-          git commit -m "chore: refresh 3D contribution wall"
+          git commit -m "chore: refresh profile SVGs"
           git push
