@@ -66,7 +66,7 @@ Most of my time lives where **Laravel meets LLMs**: wrapping inference APIs (Oll
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=halilcosdu&theme=tokyonight&hide_border=true&background=1A1B26&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7DCFFF" alt="GitHub streak" />
+  <img src="https://raw.githubusercontent.com/halilcosdu/halilcosdu/main/assets/contrib-streak.svg" alt="GitHub streak" />
 </div>
 
 <div align="center">
@@ -76,7 +76,7 @@ Most of my time lives where **Laravel meets LLMs**: wrapping inference APIs (Oll
 
 ## ⚡ A year of shipping
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=halilcosdu&theme=tokyo-night&hide_border=true&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=7dcfff&area=true" alt="Contribution activity graph" />
+<img width="100%" src="https://raw.githubusercontent.com/halilcosdu/halilcosdu/main/assets/contrib-activity.svg" alt="Contribution activity graph" />
 
 ## 🧊 Every commit, stacked in 3D
 
